@@ -1,0 +1,24 @@
+#docker-installation steps
+
+#create an account in docker hub
+
+#build docker image
+
+# pull image from hub.docker.com
+
+
+# run a container 
+
+# check if the container is running
+
+# stop running container
+
+# check stopped containers 
+
+# start stopped containers 
+
+
+# Based on the above observations, what is a container in your view?
+
+
+
