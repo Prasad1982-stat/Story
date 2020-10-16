@@ -1,0 +1,18 @@
+This is my new story Created on 23-Aug-20 @ 8:15 P
+New line added 0n 24th Aug 20 @ 1:10 PM
+New line added on 14 Oct 20
+
+
+on 16-Oct-20 in Linux we discussed abt
+
+mkdir
+cat
+rmdir
+touch
+vi
+vim
+ls
+chmod
+histoty
+clear
+
